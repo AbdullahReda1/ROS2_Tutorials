@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>This is my custom ROS 2 package in python</description>
+  <description>Beginner client libraries tutorials practice package in python</description>
   <maintainer email="abdullah.reda44@gmail.com">abdullah</maintainer>
   <license>Apache-2.0</license>
 
