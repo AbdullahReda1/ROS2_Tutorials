@@ -54,3 +54,4 @@ CATKIN_IGNORE
 .vscode
 log/
 install/
+*.out
